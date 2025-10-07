@@ -61,3 +61,7 @@ $ls -ld
 | ~/.tmux.conf   | ~/dotfiles/tmux/.tmux.conf   | Tmux   |
 | ~/.zshrc       | ~/dotfiles/zsh/.zshrc        | ZSH    |
 | ~/.config/nvim | ~/dotfiles/nvim/.config/nvim | NeoVIM |
+
+## TODO
+
+- **Smassh** is a TUI based typing test application inspired by MonkeyType [github.com/kraanzu/smassh](https://github.com/kraanzu/smassh)
